@@ -19,8 +19,3 @@ I'm not really planning on collaborating on anything, but I'm open for it!
 <br><br>
 <b>Contact me 📫</b><br>
 If you want to feel free to contact me via my email adress pauljustus279@gmail.com
-
-<!---
-C0mput3r5c13nt15t/C0mput3r5c13nt15t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
