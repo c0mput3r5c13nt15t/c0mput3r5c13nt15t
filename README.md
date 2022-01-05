@@ -18,4 +18,4 @@ I'm pretty much interested in everything that has to do with computer science, b
 I'm not really planning on collaborating on anything, but I'm open for it!
 <br><br>
 <b>Contact me 📫</b><br>
-If you want to feel free to contact me via my email adress pauljustus279@gmail.com
+If you want to feel free to contact me.
