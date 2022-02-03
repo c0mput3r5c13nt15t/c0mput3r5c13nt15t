@@ -1,5 +1,5 @@
 <b>Hello 👋</b><br>
-I’m C0mput3r5c13nt15t, well actually I want to become one. For now I'm just a student.
+I’m Paul Maier and I'm a 16 year old student from Germany.
 <br><br>
 <b>My interests 👀</b><br>
 I'm pretty much interested in everything that has to do with computer science, but my focus lies on:
