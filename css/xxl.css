@@ -1,0 +1,71 @@
+/* small.css */
+
+
+/* Structure */
+
+html {
+  -ms-overflow-style: none;
+  overflow-y: scroll;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+
+.landing .title {
+  position: absolute;
+  left: 33%;
+  top: 66%;
+  transform: translate(-50%, -50%);
+}
+
+.projects {
+  width: 70%;
+}
+
+.masonry {
+  margin: 0;
+  -moz-column-count: 3;
+  -webkit-column-count: 3;
+  column-count: 3;
+}
+
+/* Typography */
+
+h1 {
+  font-size: 5rem;
+  font-weight: 800;
+}
+
+h2 {
+  font-size: 3.1rem;
+  font-weight: 600;
+}
+
+h3 {
+  font-size: 2.5rem;
+  margin: 2.5rem 0;
+  font-weight: 500;
+}
+
+h4 {
+  font-size: 2rem;
+  text-align: left;
+  margin: 1.5rem 1.5rem .75rem;
+  font-weight: 500;
+}
+
+h5 {
+  text-align: left;
+  margin: 1rem 1rem 1rem 15%;
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+p {
+  text-align: left;
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+  margin-bottom: 1.5rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+}
