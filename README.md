@@ -1,5 +1,5 @@
 <b>Hello 👋</b><br>
-I’m Paul Maier and I'm a 17 year old student from Germany. I am a pupil @Birklehof and I love coding.
+I’m Paul Maier and I'm a 17 year old student from Germany.
 
 <b>My interests 👀</b><br>
 I'm pretty much interested in everything that has to do with computer science, but my focus lies on:
