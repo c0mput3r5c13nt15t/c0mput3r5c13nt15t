@@ -18,7 +18,9 @@ I'm pretty much interested in everything that has to do with computer science, b
 I'm not really planning on collaborating on anything, but I'm open for it!
 
 <b>Contact me 📫</b><br>
-If you want to feel free to contact me:
+If you want to feel free to contact me directly:
 - 📧 pauljustus279@gmail.com
 - 📞 +49 173 3780289
-- Discord c0mput3r5c13nt15t#8867
+
+Alternatively you can message over Discord
+- c0mput3r5c13nt15t#8867
