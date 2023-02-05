@@ -15,7 +15,7 @@ I'm pretty much interested in everything that has to do with computer science, b
 - Diffenrent competitions ([Bundeswettbewerb Informatik](https://bwinf.de/bundeswettbewerb/), etc.)
 
 <b>Collaborations 💞️</b><br>
-I'm not really planning on collaborating on anything, but I'm open for it!
+I'm not really planning to collaborating on anything, but I'm open for it!
 
 <b>Contact me 📫</b><br>
 If you want to feel free to contact me directly:
