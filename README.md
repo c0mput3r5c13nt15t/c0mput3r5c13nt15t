@@ -7,7 +7,7 @@ I'm pretty much interested in everything that has to do with computer science, b
 - Cybersecurity, Capture-the-Flag
 
 <b>My current projects 🌱</b><br>
-- Building useful software for my school (@Birklehof/teams-name-generator, @Birklehof/teams-name-generator, etc.)
+- Building useful software for my school @Birklehof
 - Different competitions ([Bundeswettbewerb Informatik](https://bwinf.de/bundeswettbewerb/), etc.)
 
 <b>Collaborations 💞️</b><br>
