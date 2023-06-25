@@ -9,6 +9,7 @@ I'm pretty much interested in everything that has to do with computer science, b
 <b>My current projects 🌱</b><br>
 - Building useful software for my school @Birklehof
 - Different competitions ([Bundeswettbewerb Informatik](https://bwinf.de/bundeswettbewerb/), etc.)
+- Learning Rust 🦀
 
 <b>Collaborations 💞️</b><br>
 I'm not really planning to collaborating on anything, but I'm open for it!
