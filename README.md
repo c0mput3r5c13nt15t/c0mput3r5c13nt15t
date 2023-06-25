@@ -20,4 +20,4 @@ If you want to, feel free to contact me directly:
 - 📞 +49 173 3780289
 
 Alternatively, you can message over Discord
-- c0mput3r5c13nt15t#8867
+- c0mput3r5c13nt15t
