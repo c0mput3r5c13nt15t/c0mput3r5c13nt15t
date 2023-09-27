@@ -1,5 +1,5 @@
 <b>Hello 👋</b><br>
-I’m Paul Maier a 17-year-old student from Germany.
+I’m Paul Maier an 18-year-old student from Germany.
 
 <b>My interests 👀</b><br>
 I'm pretty much interested in everything that has to do with computer science, but my focus lies on:
