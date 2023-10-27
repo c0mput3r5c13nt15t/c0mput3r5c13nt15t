@@ -16,7 +16,7 @@ I'm pretty much interested in everything that has to do with computer science or
 
 <b>Contact me 📫</b><br>
 If you want to, feel free to contact via email:
-- 📧 pauljustus279@gmail.com
+- 📧 mail@paulmaier.online
 
 Or you can message over Discord
 - c0mput3r5c13nt15t
