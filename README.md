@@ -1,17 +1,17 @@
 <b>Hello 👋</b><br>
-I’m Paul Maier an 19-year-old Cyber Security student at the DHBW Mannheim in Germany.
+I’m Paul Maier a 19-year-old Cybersecurity student at the DHBW Mannheim, Germany 🇩🇪.
 
 <b>My interests 👀</b><br>
-I'm pretty much interested in everything that has to do with computer science or technology in general, but my focus lies on:
+I'm interested in a lot of things, but my focus lies on:
+- Cybersecurity, especially Web Exploitation and Network Security
+- Ethical Hacking & CTFs 🚩
 - Web development (mostly JavaScript frameworks)
-- Learning fundamentals, e.g. the OSI model
-- Practising/understanding different tools and attacks, e.g. EAP attack, web exploitation
-- and much more!
 
 <b>My current projects 🌱</b><br>
+- Learning fundamentals, e.g. the OSI model
+- Learning Cybersecurity, e.g. practicing tools like Wireshark, nmap, etc.
+- Competitions (Hackathons, CTFs, etc.)
 - Maintaining 24-stunden-lauf-app-v2 for @Birklehof
-- Different competitions (Hackfestival Mannheim, CTFs, etc.)
-- Learning cybersecurity
 
 <b>Contact me 📫</b><br>
 If you want to, feel free to contact via email:
