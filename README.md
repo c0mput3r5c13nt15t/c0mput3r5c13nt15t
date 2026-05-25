@@ -1,3 +1,5 @@
+Note: In light of recent events I have been transitioning towards the independent community-driven [Codeberg](https://codeberg.org) for my code hosting, so feel free to [check me out there](https://codeberg.org/c0mput3r5c13nt15t) instead! [#DIDit](https://di.day/en)
+
 <b>Hello 👋</b><br>
 I’m Paul a Cybersecurity student at the DHBW Mannheim, Germany 🇩🇪.
 
